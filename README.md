@@ -21,3 +21,9 @@ La posición del sol se mide con respecto a dos ángulos:
 . θ que es el ángulo de elevación del sol con respecto a su proyección en la superficie,
 . α que es el ángulo azimutal de la proyección del sol en la superficie con respecto al norte.
 ![alt text](assets/pos_solar.png)  
+
+# Presentación
+En el siguiente link podran observar la presentacion de la exposición, en la cual se mostrara cosas como el planteamiento matemámatico, diagrama de flujo del programa implementado, y capturas de la compilacion del mismo.
+
+# Caso de prueba
+Se grabó un video acerca del funcionamiento del programa, se observara algunos casos de prueba. 
