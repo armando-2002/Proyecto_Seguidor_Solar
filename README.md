@@ -20,3 +20,4 @@ Un seguidor solar es un sistema de orientación para maximizar la exposición a 
 La posición del sol se mide con respecto a dos ángulos:
 . θ que es el ángulo de elevación del sol con respecto a su proyección en la superficie,
 . α que es el ángulo azimutal de la proyección del sol en la superficie con respecto al norte.
+![alt text](assets/pos_solar.png)  
