@@ -27,5 +27,5 @@ En el siguiente link podran observar la presentacion de la exposición, en la cu
 
 # Caso de prueba
 Se grabó un video acerca del funcionamiento del programa, se observara algunos casos de prueba. 
-![alt text]_(assets/Computación.mp4)
+![alt text]_(assets/Compilación.mp4)
 [Descargar video de compilación](./assets/compilacion.mp4)
