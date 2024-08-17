@@ -1,0 +1,6 @@
+ipywidgets
+ipython
+matplotlib
+pytz
+numpy
+pysolar
