@@ -24,7 +24,7 @@ La posición del sol se mide con respecto a dos ángulos:
 
 # Presentación
 En el siguiente link podran observar la presentacion de la exposición, en la cual se mostrara cosas como el planteamiento matemámatico, diagrama de flujo del programa implementado, y capturas de la compilacion del mismo.
-
+https://www.canva.com/design/DAGN_MY-N_s/ZPwZmIfF4na01zvzLJ1Rdg/view?utm_content=DAGN_MY-N_s&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 # Caso de prueba
 Se grabó un video acerca del funcionamiento del programa, se observara algunos casos de prueba. 
 Para poder ver el video acceder el siguiente link:
