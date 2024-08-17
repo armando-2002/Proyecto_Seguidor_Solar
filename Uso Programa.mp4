@@ -1,9 +1,0 @@
-Descripción del Video
-Este video muestra la funcionalidad de una herramienta interactiva para visualizar la trayectoria solar y la orientación de un panel solar en un gráfico tridimensional. La interfaz permite ajustar los siguientes parámetros:
-
-Fecha: Selecciona la fecha para la simulación mediante un selector de fecha.
-Hora Inicial: Elige la hora de inicio de la simulación utilizando un menú desplegable.
-Duración: Ajusta la duración de la simulación en horas con un control deslizante, con un rango de 1 a 24 horas.
-La herramienta actualiza automáticamente el gráfico en función de los parámetros seleccionados. La trayectoria del sol se representa en color naranja y la orientación del panel solar en color azul.
-
-El video ilustra cómo estos controles interactivos permiten al usuario ajustar y visualizar la posición solar y el ángulo del panel solar en un entorno dinámico y detallado.
